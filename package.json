@@ -1,6 +1,6 @@
 {
 	"name": "aws-s3-encryption-client",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"author": "makesites",
 	"homepage": "https://github.com/makesites/aws-s3-encryption-client",
 	"repository": {
