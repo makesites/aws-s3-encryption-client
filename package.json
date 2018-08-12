@@ -1,0 +1,23 @@
+{
+	"name": "aws-s3-encryption-client",
+	"version": "0.0.0",
+	"author": "makesites",
+	"homepage": "https://github.com/makesites/aws-s3-encryption-client",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/makesites/aws-s3-encryption-client.git"
+	},
+	"licenses": [
+	{
+		"type": "Apache License, Version 2.0",
+			"url": "http://www.makesites.org/licenses/APACHE-2.0"
+	}
+	],
+	"engine" : {
+		"node" : ">=10.x.x"
+	},
+	"dependencies" : {
+	},
+	"devDependencies" : {
+	}
+}
