@@ -17,6 +17,7 @@
 		"node" : ">=10.x.x"
 	},
 	"dependencies" : {
+		"aws-sdk": "2.x.x"
 	},
 	"devDependencies" : {
 	}
